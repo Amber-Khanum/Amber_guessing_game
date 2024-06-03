@@ -1,6 +1,6 @@
 {
   "name": "amb3r_number_guessing_game",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
@@ -9,7 +9,7 @@
   },
   "author": "\"Amber\"",
   "license": "MIT",
-  "description": "",
+  "description": "Building a Guessing Game",
   "dependencies": {
     "inquirer": "^9.2.23"
   },
